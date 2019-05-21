@@ -51,3 +51,4 @@ If you're working on a math, science, or a lab project you might find the need t
 2. You will the see a pop-up box appear. Then you'll just need to type in the email address of the people you want to share your work with and click done.
 
 ![image12](https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/lessons/images/GRY/Image12.jpg)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
